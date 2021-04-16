@@ -164,7 +164,7 @@ console.log(whatDayIsIt())
     Example: RollTheDices(3) => returns {
         sum: 10
         values: [3, 3, 4]
-    }
+    }f
 */
 
 
